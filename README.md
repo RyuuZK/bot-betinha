@@ -2,10 +2,10 @@
 
 Aqui está um modelo de README.md bem estruturado, com um toque de personalidade para o seu bot "Betinha", pronto para você copiar e colar no seu GitHub:
 
-🤖 Betinha Bot
+#🤖 Betinha Bot
 O Betinha Bot é o companheiro oficial para o seu servidor Discord! Um bot focado em diversão, sorteios aleatórios, interações entre membros e utilitários rápidos. Se você procura uma forma de agitar o chat, o Betinha é o cara (ou melhor, o bot).
 
-🚀 Comandos Principais
+#🚀 Comandos Principais
 Sorteios e Aleatórios
 !quem: O bot sorteia alguém do servidor para ser o "culpado".
 
