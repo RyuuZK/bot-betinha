@@ -21,7 +21,5 @@ Interação com GIFs
 
 !tapa @membro: Envia um GIF de tapa para aquele amigo chato.
 
-!sexo @membro: Envia um GIF de abraço romântico para o seu crush.
-
 Oráculo
 !qualquercoisa: Digite qualquer comando começando com ! que não exista, e o Betinha responderá com uma frase aleatória para decidir sua vida!
